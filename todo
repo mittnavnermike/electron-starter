@@ -1,0 +1,13 @@
+Main target
+Electron app that switches background images on the mac on an interval based on a image database.
+
+
+Steps:
+[] Create electron/react boilerplate -> set ut repo
+[] Figure out the best way to change background image with electron.
+    And can it take javascript objects?
+[] Make applescript that switches background image
+[] Use applescript with electron to switch background image
+[] Select fitting database (airtable?)
+[] Pick random image from database and put in applescript
+[] Set time interval to switch the background image

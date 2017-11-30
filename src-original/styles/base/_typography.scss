@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: $sans;
+    font-size: 18px;
+    line-height: 1.1;
+    color: $c-main;
+    -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5 {
+    font-weight: normal;
+}
+
+p {
+    margin: 0;
+}
+
+a {
+    color: currentColor;
+    text-decoration: none;
+    border-bottom: $border;
+
+    &:visited {
+        color: currentColor;
+    }
+}
+
+.small {
+    font-size: .8em;
+}
+
+.big {
+    font-size: 2em;
+}

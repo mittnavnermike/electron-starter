@@ -1,0 +1,28 @@
+body {
+    background: $c-background;
+}
+
+button {
+    background: none;
+    border: none;
+    display: inline-block;
+    font-size: 18px;
+    font-family: $sans--light;
+
+    &:focus {
+        outline: none;
+    }
+}
+
+input {
+    border: none;
+    background: none;
+}
+
+figure {
+    margin: 0;
+}
+
+img {
+    width: 100%;
+}
