@@ -20,4 +20,4 @@
     "eject": "react-scripts eject"
   }
   ```
-4. `npm run dev` or `yarn dev` :tada:
+5. `npm run dev` or `yarn dev` :tada:
